@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuckyNate
 - 👀 I’m interested in Web Development and Games
-- 🌱 I’m currently learning GITHUB, CSS, JS
-- 💞️ I’m looking to collaborate on LEARNING
-- 📫 How to reach me LuckyNate.Wyatt@gmail.com
+- 🌱 I’m currently learning: GITHUB, CSS, JS
+- 💞️ I’m looking to collaborate on: learning and games
+- 📫 How to reach me: Leave me a message!
 
 <!---
 LuckyNate/LuckyNate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
