@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuckyNate
 - 👀 I’m interested in Web Development and Games
-- 🌱 I’m currently learning: GITHUB, CSS, JS
+- 🌱 I’m currently learning: GIT, GITHUB, CSS, JS
 - 💞️ I’m looking to collaborate on: learning and games
 - 📫 How to reach me: Leave me a message!
 
